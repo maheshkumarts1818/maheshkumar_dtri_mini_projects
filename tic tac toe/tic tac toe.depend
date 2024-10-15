@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715927661 source:c:\users\mahesh\documents\mahi c\tic tac toe\main.c
+	<stdio.h>
+	<stdlib.h>
+
